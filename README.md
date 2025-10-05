@@ -1,1 +1,1 @@
-# pyhton-game
+# number guess game
